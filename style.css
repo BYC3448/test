@@ -84,3 +84,27 @@ ul {
 .delete-btn:hover {
     color: #b71c1c;
 }
+#calendar {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+    border: 1px solid #81c784;
+    text-align: center;
+}
+
+th {
+    background-color: #66bb6a;
+    color: white;
+}
+
+td {
+    background-color: #e8f5e9;
+}
